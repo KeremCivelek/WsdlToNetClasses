@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WsdlToNetClasses", "WsdlToNetClasses.csproj", "{8673D8FE-D47B-4523-8BB6-28A5ABDE2E31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsdlToStructs", "..\WsdlToStructs\WsdlToStructs.csproj", "{F7B45BCA-71CA-4631-8A4E-1DEEC60B644E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8673D8FE-D47B-4523-8BB6-28A5ABDE2E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8673D8FE-D47B-4523-8BB6-28A5ABDE2E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8673D8FE-D47B-4523-8BB6-28A5ABDE2E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B45BCA-71CA-4631-8A4E-1DEEC60B644E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B45BCA-71CA-4631-8A4E-1DEEC60B644E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B45BCA-71CA-4631-8A4E-1DEEC60B644E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B45BCA-71CA-4631-8A4E-1DEEC60B644E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
